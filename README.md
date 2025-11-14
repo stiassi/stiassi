@@ -1,7 +1,12 @@
-## Hi there 👋
+### Stuff I do:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="30" width="42" alt="powershell logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+</div>
 
 <!--
-**stiassi/stiassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fabian5150/Fabian5150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
